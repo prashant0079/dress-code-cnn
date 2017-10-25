@@ -4,8 +4,14 @@ This piece of code uses hog(histogram-of-features) for person identification in 
 
 ------------------------------------------------------------Important Libraries-------------------------------------------------------
 Keras 2.0.8
+
 Tensorflow(Keras runs on top of tensorflow)
+
 Numpy
+
 OpenCV 3.3
 
 ------------------------------------------------------------How to run----------------------------------------------------------------
+1. Save the image under test_image directory by image.jpg
+
+2. Run mainprog.py(After execution the cropped images will appear in the main directory) so for retesting delete those images first)
